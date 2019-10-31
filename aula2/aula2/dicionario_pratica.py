@@ -14,7 +14,7 @@ for chave in dicionario.keys():
     soma += dicionario[chave]
 print(soma)
 
-##########################################3
+##########################################3d
 for valor in dicionario.values():
     soma += valor
 print(soma)
