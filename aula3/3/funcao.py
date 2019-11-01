@@ -16,3 +16,6 @@ def main()
 
     print(resultado)
     print(soma(230, 329))
+
+if __name__ == "__main__":
+    main()
