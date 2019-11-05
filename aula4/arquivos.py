@@ -11,5 +11,6 @@ print(quebrado)
 exit()
 conteudo += 'Olá '
 
-with open ('pessoa.json', 'w+') as f:
+with open ('pessoa.json', 'w+') as f: 
     f.write(conteudo)
+
